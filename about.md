@@ -1,7 +1,6 @@
 # About
 
 
-Hello....this is demo blog.
 
 
 
